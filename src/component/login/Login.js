@@ -33,7 +33,7 @@ function Login() {
 
       <div className="linining">
         <hr className="hr" />
-        <p className="newAmazon">New to Amazon</p>
+        <p className="newAmazon">New to Amazon?</p>
         <hr className="hr" />
       </div>
       <button className="login_registerButton">
